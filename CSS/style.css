@@ -1,0 +1,77 @@
+body{
+      background-color: burlywood;
+}
+span{
+    color: darkmagenta;
+}
+header{
+    background-color: aqua;   
+    height: 70px;
+    text-align: center;
+    color: red;
+}
+.slider{
+    background-color: darkslateblue;
+    color: gold;
+    text-align: center;
+}
+.Left{
+    width: 50%;
+    height: 200px;
+    background-color: hotpink;
+    float: left;
+}
+.Right{
+    width: 50%;
+    height: 200px;
+    background-color: gray;
+    float: right;
+}
+.item_one{
+    width: 33.3%;
+    height: 200px;
+    background-color: darkgreen;
+    float: left;
+}
+.item_two{
+    width: 33.3%;
+    height: 200px;
+    background-color: darkslateblue;
+    float: left;
+}
+.item_three{
+    width: 33.3%;
+    height: 200px;
+    background-color: royalblue;
+    float: right;
+}
+.content{
+    overflow: hidden;
+}
+.item{
+    overflow: hidden;
+}
+.article{
+    overflow: hidden;
+}
+.article_content{
+    width: 70%;
+    height: 200px;
+    background-color: tomato;
+    float: left;
+}
+.ad{
+    width: 30%;
+    height: 200px;
+    background-color: springgreen;
+    float: right;
+}
+footer{
+   
+    height: 100px;
+    background-color: darkkhaki;
+    text-align: center;
+    color: blue
+}
+
+
