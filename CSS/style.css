@@ -126,12 +126,9 @@ overflow: hidden;
 .newslater{
     background-color: #f0f0f0;
     padding: 70px 0;
-    width: 28%;
-    margin: auto;
-
 }
 .newslater_content{
-    width: 100%;
+    width: 30%;
     margin: auto;
 
 }
@@ -235,4 +232,8 @@ footer{
     float: right;
 
 }
+.send{
+    position: absolute;
+
+    right: 35%;
 
